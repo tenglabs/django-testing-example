@@ -1,1 +1,1 @@
-# budget-application-tutorial
+# django tests example
